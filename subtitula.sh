@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VIDEO="/mnt/c/Users/it77/Desktop/festival/2025-05-26 13-36-15.mkv"
+VIDEO="/mnt/c/Users/it77/Desktop/2025-05-26 13-36-15.mkv"
 OUTPUT_DIR="./subtitles"
 # change vale to 5 if you wich small delay near to real time
 CHUNK_DURATION=60 

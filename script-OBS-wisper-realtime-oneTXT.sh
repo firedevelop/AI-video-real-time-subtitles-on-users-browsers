@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VIDEO="/mnt/c/Users/it77/Desktop/festival/2025-05-26 12-49-04.mkv"
+VIDEO="/mnt/c/Users/it77/Desktop/2025-05-26 12-49-04.mkv"
 OUTPUT_DIR="./transcripciones"
 CHUNK_DURATION=60  # segundos por fragmento
 MAX_RETRIES=3
